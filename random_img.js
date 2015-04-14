@@ -1,6 +1,6 @@
-var r = Math.random();
-if (r < 0.1) {
-  document.writeln('<img src="img/1.jpg" width:600 alt="Keep MatSci Weird" />');
+ var r = Math.random();
+if (r < 0.01) {
+  document.writeln('<img src="img/8.jpg" alt="Keep MatSci Weird" />');
 }
 else if (r < 0.2) {
   document.writeln('<img src="img/2.jpg" alt="Keep MatSci Weird" />');
@@ -20,8 +20,8 @@ else if (r < 0.7) {
 else if (r < 0.8) {
   document.writeln('<img src="img/7.jpg" alt="Keep MatSci Weird" />');
 }
-else if (r < 0.9) {
-  document.writeln('<img src="img/8.jpg" alt="Keep MatSci Weird" />');
+else if (r < 0.97) {
+  document.writeln('<img src="img/1.jpg" alt="Keep MatSci Weird" />');
 }
 else {
   document.writeln('<img src="img/9.jpg" alt="Keep MatSci  Weird" />');
